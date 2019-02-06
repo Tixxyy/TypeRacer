@@ -1,7 +1,9 @@
 # A basic TypeRacer
+**OUTDATED. MORE OPTIMIZED VERSION https://github.com/Tixxyy/TypeRacerV2/tree/master/src**
+
 A TypeRacer with custom text support.
 
-##How to use
+#How to use
 1. Provide a .txt file that contains text (utf-8 characters).
 2. Start the game.
 
